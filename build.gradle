@@ -29,4 +29,4 @@ dependencies {
     testImplementation 'junit:junit:4.12'
 }
     // necessaire pour "gradle run"
-    mainClassName = 'helloformation.checkNumeric'
+    mainClassName = 'Lab6.checkNumeric'
